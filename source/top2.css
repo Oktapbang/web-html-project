@@ -1,0 +1,34 @@
+﻿
+         #topMenu2 ul li { 
+                list-style: none;
+                color: white;
+                background-color: #e4b27f;
+                float: left;
+                line-height: 105px;
+                text-align: center;
+            }
+
+          #topMenu2 .menuLink2 {
+                text-decoration:none;
+                color: white;
+                display: block;
+                width: 220px;
+                height: 105px;
+                font-size: 18px;
+                font-weight: bold;
+                font-family: "Trebuchet MS", Dotum, Arial; 
+            }
+
+           #topMenu2 .home2 {
+                display: block;
+                width: 300px;
+                height: 105px;
+                font-size: 18px;
+                font-weight: bold;
+                font-family: "Trebuchet MS", Dotum, Arial; 
+            }
+
+          #topMenu2 .menuLink2:hover { 
+                 color: black;
+                  display:block;
+            }

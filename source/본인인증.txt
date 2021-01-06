@@ -1,0 +1,47 @@
+<html>
+<head></head>
+<body>
+<form>
+<table rules = "rows" width = "100%" height = "100%">
+<tr>
+<td><img src = "본인인증.png" width = "100%"></td>
+</tr>
+<tr>
+	<td colspan = "2">
+	<div align = "center"><font size = "6"><font color = "gray">-</font> 회원가입<font color = "gray"> -</font></font>
+	</td>
+</tr>
+<tr>
+	<td colspan = "2">
+	<font size = "4"><div align = "middle"><b>>> 정보입력 </b></font></div>
+	</td>
+</tr>
+<tr>
+	<td>
+	<table rules = "cols" width = "100%">
+		<tr><td width = "50%"><center><img src = "휴대폰인증.png"></center></td>
+		<td td width = "50%"><center><img src = "아이핀인증.png"></center></td></tr>
+		<tr><td><font size = "2" color = "gray"><div align = "center">본인 명의의 휴대폰으로 본인 인증합니다.<div></font></td>
+		<td><font size = "2" color = "gray"><div align = "center">서비스에 가입된 아이핀(i-PIN)으로 본인 인증합니다.</div>
+		</td>
+		</tr>
+		<tr><td><center><img src = "인증하기.png"></center></td>
+		<td><center><img src = "인증하기.png"></center></td></tr>
+	</table>
+	</td>
+</tr>
+<tr>
+<td>
+<p>
+<font size = "2" color = "gray">* 본인 인증은 반드시 회원님 명의로 된 휴대폰과 아이핀을 이용해주세요. 타인의 개인정보를 도용하여 가입할 경우 향후 적발 시 서비스 이용제한 및 법적 제제를 받으실 수 있습니다.</font>
+</td>
+</tr>
+<tr>
+<td align = "center">
+<img src = "이전으로.png">
+</td>
+</tr>
+</form>
+</table>
+</body>
+</html>

@@ -1,0 +1,50 @@
+﻿  a {
+      text-decoration: none;
+    }
+    
+    a:hover {
+      text-decoration: underline;
+    }
+    
+    /**********/
+    
+    ul#navWrapper {
+      border: 1px black dashed;
+      margin-left: -41px;
+    }
+        
+    ul#navWrapper li {
+      border: 1px red dashed;    
+      float: left;
+      list-style: none;
+      margin-right: 0.5em;
+      background-color: #DDD;
+      padding: 0 0.25em;
+    }
+    
+    ul#navWrapper li li {
+      border: 1px blue dashed;    
+      float: none;
+      margin-left: -44px;
+      margin-top: 3px;
+    }
+
+    ul#navWrapper li li:first-child { 
+      margin-top: 4px;
+    }
+
+    ul#navWrapper ul {
+      display: none;
+      position: absolute;
+    }
+    
+    ul#navWrapper li:hover ul {
+      display: block;
+    }
+    
+    /**********/
+    
+    div#content {
+      border: 1px green dashed;    
+      clear: both;
+    }

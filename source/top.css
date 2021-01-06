@@ -1,0 +1,48 @@
+﻿
+         #topMenu ul li { 
+                list-style: none;
+                color: white;
+                background-color: #e4b27f;
+                float: left;
+                line-height: 105px;
+                text-align: center;
+            }
+
+          #topMenu .menuLink {
+                text-decoration:none;
+                color: white;
+                display: block;
+                width: 220px;
+                height: 105px;
+                font-size: 18px;
+                font-weight: bold;
+                font-family: "Trebuchet MS", Dotum, Arial; 
+            }
+
+           #topMenu .home {
+                display: block;
+                width: 300px;
+                height: 105px;
+                font-size: 18px;
+                font-weight: bold;
+                font-family: "Trebuchet MS", Dotum, Arial; 
+            }
+
+          #topMenu .menuLink:hover { 
+                 color: black;
+                  display:block;
+            }
+
+
+.submenuLink { /* 상위 메뉴와 하위 메뉴의 a 태그에 공통으로 설정할 스타일 */ 
+                          text-decoration:none; display: block; 
+                          width: 180px; 
+                          font-size: 12px; 
+                          font-weight: bold; 
+                          font-family: "Trebuchet MS", Dotum; } 
+
+
+
+.longLink { /* 좀 더 긴 메뉴 스타일 설정 */ width: 190px; } 
+
+          
